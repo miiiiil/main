@@ -31,7 +31,7 @@ footer .footer-logo {width: 100px; margin: 50px auto;}
 
 .mainlayer {position: relative; height: 580px;}
 .mainlayer .layer-txt {line-height: 1; font-size: 4.6rem; font-weight: bold; padding: 60px 30px;}
-.mainlayer .layer-bg {width: 1400px; height: 580px; background: url("../../../../../Documents/hp/定 1.png") no-repeat bottom right; position: absolute; z-index: -1;  right: 0; bottom: 0; }/*max-width→*/
+.mainlayer .layer-bg {width: 1400px; height: 580px; background: url("../../../../../Documents/hp/ 1.png") no-repeat bottom right; position: absolute; z-index: -1;  right: 0; bottom: 0; }/*max-width→*/
 .mainlayer .layer-btn {padding: 0px 30px;}
 .mainlayer .layer-btn p {font-size: 1.2rem; font-weight: bold;}
 /* スマホ用調整　*/
