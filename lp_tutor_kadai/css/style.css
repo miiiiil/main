@@ -38,7 +38,7 @@ footer .footer-logo {width: 100px; margin: 50px auto;}
 @media screen and (max-width:767px){
     .mainlayer {height: auto;}
     .mainlayer .layer-txt {font-size: 2.2rem; padding: 40px 10px;}
-    .mainlayer .layer-bg {width: auto; height: 460px; position:inline;}
+    .mainlayer .layer-bg {width: auto; height: 460px; position:initial;}
     .mainlayer .layer-btn {padding: 30px 20px; width: auto;}
 }
 
