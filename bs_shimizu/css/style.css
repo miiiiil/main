@@ -1,0 +1,49 @@
+body {
+    font-family:"Tsukushi B Round Gothic";
+}
+
+.nav-txt a {
+    color: black;
+}
+
+.logo img{
+  width:100px;
+  height:auto;
+}
+
+.coffee {
+  background-color:darkkhaki;
+}
+
+.lunch {
+    background-color:rosybrown;
+}
+
+.news-bg {
+  background-color:lightgrey;
+}
+
+.vr {
+    display: inline-block;
+    align-self: stretch;
+    width: 3px;
+    min-height: 1em;
+    background-color: currentcolor;
+    color: darkgreen;
+  }
+
+  .concept-img {
+    width: 100px;
+    height: auto;
+  }
+
+  .img-1 {
+    width: 200px;
+  }
+
+  @include media-breakpoint-up(lg) { 
+    .logo img{
+      width:200px;
+      height:auto;
+    }
+  }
